@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+#
+CMakeCacke
+Makefile
+build
+prog
