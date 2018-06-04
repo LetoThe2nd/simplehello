@@ -32,7 +32,10 @@
 *.app
 
 #
-CMakeCacke
+CMakeCache*
+CMakeFiles
+cmake_install.cmake
+install_manifest.txt
 Makefile
 build
-prog
+simplehello
