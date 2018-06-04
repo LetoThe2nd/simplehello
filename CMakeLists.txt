@@ -1,1 +1,2 @@
-add_executable(prog main.cpp)
+add_executable(simplehellomain.cpp)
+install(TARGETS simplehello DESTINATION bin)
